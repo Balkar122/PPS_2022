@@ -1,4 +1,4 @@
-## Program 2: Write a code to display hello world
+## Program 2: Write a code to add to numbers
 ```
 #include<stdio.h>
 int main ()
