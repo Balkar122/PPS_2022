@@ -1,4 +1,4 @@
-## Program 8: Write a display to show while loop
+## Program 8: Write a Program to show while loop
 ```
 #include<stdio.h>
 int main ()
