@@ -1,6 +1,5 @@
-##Program 16 : Tutorial
-  Program #1
-```
+## Program 16 : Tutorial Program #1
+```c
 #include <stdio.h>
 int main ()
 {
@@ -11,7 +10,7 @@ printf("The character you entered is %c\n" ,chr);
 return 0;
 }
 ```
-Output:
+## Output:
 ```
 Please enter a character: (
 The character you entered is (
