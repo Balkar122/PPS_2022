@@ -1,5 +1,5 @@
-##Program 17: Tutorial Program #2
-```
+## Program 17: Tutorial Program #2
+```c
 #include <stdio.h>
 int main ()
 {
@@ -10,7 +10,7 @@ printf("second scored: %lf\n", m2);
 return 0;
 }
 ```
-Output :
+## Output :
 ```
 niko scored: 95.622002
 second scored: 22.500000
